@@ -14,6 +14,7 @@
 		DFCC404E20D9C5C100F2BFF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFCC404C20D9C5C100F2BFF0 /* LaunchScreen.storyboard */; };
 		DFCC405920D9C5C100F2BFF0 /* samplerLoginApplicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCC405820D9C5C100F2BFF0 /* samplerLoginApplicationTests.swift */; };
 		DFCC406420D9C5C100F2BFF0 /* samplerLoginApplicationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCC406320D9C5C100F2BFF0 /* samplerLoginApplicationUITests.swift */; };
+		DFCC407220D9CC2300F2BFF0 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCC407120D9CC2300F2BFF0 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DFCC405F20D9C5C100F2BFF0 /* samplerLoginApplicationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = samplerLoginApplicationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFCC406320D9C5C100F2BFF0 /* samplerLoginApplicationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = samplerLoginApplicationUITests.swift; sourceTree = "<group>"; };
 		DFCC406520D9C5C100F2BFF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DFCC407120D9CC2300F2BFF0 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				DFCC404A20D9C5C100F2BFF0 /* Assets.xcassets */,
 				DFCC404C20D9C5C100F2BFF0 /* LaunchScreen.storyboard */,
 				DFCC404F20D9C5C100F2BFF0 /* Info.plist */,
+				DFCC407120D9CC2300F2BFF0 /* ViewController2.swift */,
 			);
 			path = samplerLoginApplication;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				DFCC404620D9C5BF00F2BFF0 /* ViewController.swift in Sources */,
 				DFCC404420D9C5BF00F2BFF0 /* AppDelegate.swift in Sources */,
+				DFCC407220D9CC2300F2BFF0 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
