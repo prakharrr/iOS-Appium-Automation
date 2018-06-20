@@ -103,9 +103,9 @@
 				DFCC404520D9C5BF00F2BFF0 /* ViewController.swift */,
 				DFCC404720D9C5BF00F2BFF0 /* Main.storyboard */,
 				DFCC404A20D9C5C100F2BFF0 /* Assets.xcassets */,
+				DFCC407120D9CC2300F2BFF0 /* ViewController2.swift */,
 				DFCC404C20D9C5C100F2BFF0 /* LaunchScreen.storyboard */,
 				DFCC404F20D9C5C100F2BFF0 /* Info.plist */,
-				DFCC407120D9CC2300F2BFF0 /* ViewController2.swift */,
 			);
 			path = samplerLoginApplication;
 			sourceTree = "<group>";
