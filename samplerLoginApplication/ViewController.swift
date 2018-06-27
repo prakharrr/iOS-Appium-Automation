@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
 
+    @IBOutlet weak var pwField: UITextField!
+    @IBOutlet weak var usernameField: UITextField!
     @IBAction func loginButtonTapped(_ sender: UIButton) {
         
         print("Button Tapped")
