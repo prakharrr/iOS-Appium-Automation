@@ -22,33 +22,5 @@ el3 = driver.find_element(:accessibility_id, "Login")
 el3.click
 el4 = driver.find_element(:xpath, "//XCUIElementTypeApplication[@name=\"samplerLoginApplication\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther")
 el4.click
-TouchAction
-  .new
-  .press({x: 336, y: 132})
-  .moveTo({x: 13, y: 129})
-  .release
-  .perform
-    
-TouchAction
-  .new
-  .press({x: 15, y: 166})
-  .moveTo({x: 329, y: 168})
-  .release
-  .perform
-    
-TouchAction
-  .new
-  .press({x: 24, y: 122})
-  .moveTo({x: 282, y: 142})
-  .release
-  .perform
-    
-TouchAction
-  .new
-  .press({x: 38, y: 65})
-  .moveTo({x: 311, y: 68})
-  .release
-  .perform
-    
 
 driver.quit
